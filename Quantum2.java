@@ -19,7 +19,9 @@ if (time < 10) {
 } else  if (time < 3){
   System.out.println("Pepper");  
 } else  if (time < 2){
-  System.out.println("We need more Alpharithmetical");  
+  System.out.println("We need more Alpharithmetical");
+} else  if (time < 1){
+  System.out.println("Difficult");  
 }
 }
 }
